@@ -1,4 +1,4 @@
-﻿Welcome to the GitHub repository for the **Wuzzals Task** project. This repository contains the source code and assets for a task management application developed by [Mihir Satam](https://github.com/satamihir) as part of a coding challenge for Wuzzals.
+﻿Welcome to the GitHub repository for the **Wuzzals Task** project. This repository contains the source code and assets for a task management application developed by [Mihir Sata](https://github.com/satamihir) as part of a coding challenge for Wuzzals.
 
 **Table of Contents**
 
@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](https://chat.openai.com/LICENSE
 If you have any questions or inquiries, you can reach out to Mihir Satam at:
 
 - GitHub: [satamihir](https://github.com/satamihir)
-- Email: <mihir@example.com>
+- Email: <satamihir@gmail.com>
 
 Feel free to explore, use, and customize the Wuzzals Task application for your task management needs. Thank you for your interest in this project!
 
